@@ -5,9 +5,9 @@
 ### 🚀 Full-Stack Developer | 🤖 ML Engineer | 📊 Data Scientist
 
 [![GitHub followers](https://img.shields.io/github/followers/bhavanareddy19?label=Followers&style=social)](https://github.com/bhavanareddy19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavanareddy19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://bhavana19portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:Bhavana.Vippala@colorado.edu)
 
 </div>
 
@@ -101,20 +101,6 @@ I'm a passionate software engineer specializing in **full-stack development**, *
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![Bhavana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavanareddy19&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavanareddy19&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavanareddy19&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Achievements & Highlights
 
 - 🚀 **19+ Public Repositories** showcasing diverse technical skills
@@ -174,9 +160,9 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/bhavanareddy19)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bhavana.Vippala@colorado.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhavana19portfolio.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavanareddy19)
 
 </div>
