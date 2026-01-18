@@ -35,7 +35,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Data Science" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 I come from a **data science background**, and I understand concepts best when I know the **story behind the data** —
 where it comes from, what it represents, and why it matters.
