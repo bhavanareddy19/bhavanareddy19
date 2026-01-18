@@ -35,7 +35,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Data Science Woman" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<img align="right" alt="Happy Coding Girl" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 I come from a **data science background**, and I understand concepts best when I know the **story behind the data** —
 where it comes from, what it represents, and why it matters.
