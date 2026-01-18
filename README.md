@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Bhavana+Reddy;Data+Analyst+%7C+Data+Scientist+%7C+AI+Engineer;Full-Stack+Developer+%7C+MLOps+Engineer;Turning+Data+into+Intelligence+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20%7C%20AI%20%7C%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://github.com/bhavanareddy19/bhavanareddy19/blob/main/datagirl.gif" width="100%"/>
 
 ### 📈 Data Analyst | 📊 Data Scientist | 🤖 AI Engineer | ⚙️ Data Engineer | 🌐 Full-Stack Developer
 
