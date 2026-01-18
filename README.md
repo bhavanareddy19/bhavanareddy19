@@ -60,8 +60,6 @@ That mindset makes me both a **Data Analyst** and an **AI Engineer**.
 
 ---
 
-<div align="center">
-
 ## 💼 Technical Skills
 
 <div align="center">
