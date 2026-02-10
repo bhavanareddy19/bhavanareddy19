@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/bhavanareddy19">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://bhavana19portfolio.netlify.app">
+  <a href="https://data-girl-s-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:Bhavana.Vippala@colorado.edu">
